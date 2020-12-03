@@ -113,7 +113,7 @@ Here's a blank template to get started:
 * []() -->
 
 
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)         | [![Donley's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)     |   [![Donleys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)
+  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)         | [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)     |   [![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincent-glitch)](https://github.com/vincent-glitch/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
   |                                          |                                          |                                       |
         
