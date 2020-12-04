@@ -30,19 +30,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-  <!-- PROJECT LOGO -->
-  <br />
-  <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="icons/edit.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h4 align="center">Business Analyst</h4>
+  <h4 align="center">This page is currently under construction...</h4>
    
-
-  <p align="center">
-    <p>This page is currently under construction.</p>
-    <br />
 
   
 
