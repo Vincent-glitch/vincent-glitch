@@ -37,21 +37,14 @@
     <img src="icons/edit.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h4 align="center">YOUR_TITLE</h4>
+  <h4 align="center">Business Analyst</h4>
    
 
   <p align="center">
-    <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Vincent D'Alto</strong>? 
-      You can edit and add more content  for your personal or corporate projects.</p>
+    <p>This page is currently under construction.</p>
     <br />
 
-  <!-- [![Live Demo][demo-shield]][demo-url] -->
   
-  <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="icons/live-demo.png" alt="Logo" width="80" height="80">
-  </a>
-   <h4 align="center">Live Demo</h4>
 
 <!-- MARKDOWN LINKS & ICONS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
