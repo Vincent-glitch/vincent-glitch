@@ -41,7 +41,8 @@
    
 
   <p align="center">
-    <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Vincent D'Alto</strong>? You can edit and add more content  for your personal or corporate projects.</p>
+    <p>Did you know that <strong>this template</strong> is free to use Read-me template by <strong>Vincent D'Alto</strong>? 
+      You can edit and add more content  for your personal or corporate projects.</p>
     <br />
 
   <!-- [![Live Demo][demo-shield]][demo-url] -->
