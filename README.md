@@ -174,29 +174,11 @@ Project Link: [https://github.com/vincent-glitch/README-Template](https://github
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-* [code snippets][snippet-shield] 
-
-
-
-
-[![Facebook][facebook-shield]][facebook-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 <!-- Footer -->
 <footer id="footer">
-<p class="copyright">Copyright &copy; 2020 D'Alto LLC
-<br>Designed by <a rel="nofollow" href="https://www.facebook.com/vincent-dalto">Vincent D'Alto</a></p>
+<p class="copyright">Copyright &copy; 2020 Empire Image LLC
+<br>Designed by <a rel="nofollow" href="https://www.linkedin.com/in/vincent-chase-d/">Vincent D'Alto</a></p>
 </footer>
 
 ![Visitor Count](https://profile-counter.glitch.me/vincent-glitch/count.svg)
