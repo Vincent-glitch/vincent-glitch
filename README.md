@@ -64,8 +64,8 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [About Me](#about-me)
+  * [Developing With](#developing-with)
 * [Articles](#articles)
 * [License](#license)
 * [Contact](#contact)
