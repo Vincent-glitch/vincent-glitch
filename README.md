@@ -1,28 +1,9 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
-  <h4 align="center">This page is currently under construction...</h4>
-   
-
-  
-
-<!-- MARKDOWN LINKS & ICONS -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: icons/contributors.png
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: icons/fork.png
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: icons/half_star.png
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: icons/bug.png
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: icons/certified.png 
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-<!-- [demo-shield]: icons/live-demo.png 
-[demo-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt -->
-[snippet-shield]: icons/articles.png
-[linkedin-url]: https://www.linkedin.com/in/
+[linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
 [linkedin-shield]: icons/linkedin.png
 [twitter-url]: https://twitter.com/
 [twitter-shield]: icons/twitter.png
@@ -38,17 +19,15 @@
 ## Table of Contents
 * [About Me](#about-me)
   * [Developing With](#developing-with)
-* [Articles](#articles)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
 
 <!-- ABOUT ME -->
 ## About Me
-
-
-
+ <h4 align="center">I am an economist and data scientist who enjoys engineering models for business solutions.</h4>
+I have experience with various technologies such as Python, R, Machine Learning, Excel, VBA, Git, HTML, Big Data, Tableau, and database experience with PostgreSQL, MySQL, SQLite, and Mongo.
+I strive to utilize the newest technologies to increase operating efficiency through automation and data comprehension through visualization. 
 
 ### Developing With
 <!-- 
