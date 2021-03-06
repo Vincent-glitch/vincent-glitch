@@ -1,6 +1,6 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+* [Contact](#contact)
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
 [linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
@@ -14,13 +14,6 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-* [About Me](#about-me)
-  * [Developing With](#developing-with)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 <!-- ABOUT ME -->
