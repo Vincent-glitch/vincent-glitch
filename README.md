@@ -1,5 +1,5 @@
 
- <h4 align="center"> [![LinkedIn][linkedin-shield]][linkedin-url] -  [Contact](#contact)</h4>
+[![LinkedIn][linkedin-shield]][linkedin-url]   [Contact](#contact)
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
 [linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
