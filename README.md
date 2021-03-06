@@ -45,7 +45,7 @@ I strive to utilize the newest technologies to increase operating efficiency and
 <!-- CONTACT -->
 ## Contact
 
-Vincent D'Alto - (912) 495-8379 - vincent.d.business@gmail.com
+Vincent Chase - (912) 495-8379 - vincent.d.business@gmail.com
 
 [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
@@ -60,7 +60,7 @@ Vincent D'Alto - (912) 495-8379 - vincent.d.business@gmail.com
 <!-- Footer -->
 <footer id="footer">
 <p class="copyright">Copyright &copy; 2020 Empire Image LLC
-<br>Designed by <a rel="nofollow" href="https://www.linkedin.com/in/vincent-chase-d/">Vincent D'Alto</a></p>
+<br>Designed by <a rel="nofollow" href="https://www.linkedin.com/in/vincent-chase-d/">Vincent Chase</a></p>
 </footer>
 
 ![Visitor Count](https://profile-counter.glitch.me/vincent-glitch/count.svg)
