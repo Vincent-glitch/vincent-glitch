@@ -47,8 +47,6 @@ I strive to utilize the newest technologies to increase operating efficiency and
 
 Vincent D'Alto - (912) 495-8379 - vincent.d.business@gmail.com
 
-Project Link: [https://github.com/vincent-glitch/README-Template](https://github.com/vincent-glitch/README-Template)
-
 [![Zoom][zoom-shield]][zoom-url] 
 * Schedule a meeting with me today!
 * Leave a detailed message and I will confirm. 
