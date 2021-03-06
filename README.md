@@ -29,9 +29,9 @@ I strive to utilize the newest technologies to increase operating efficiency and
 * []() -->
 
 
-  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)         | [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)     |   [![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VincentGlitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)
+  | [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)         |   [![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VincentGlitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)
   | ---------------------------------------- | ---------------------------------------- | --------------------------------------| 
-  |                                          |                                          |                                       |
+
         
 
 <!-- CONTACT -->
