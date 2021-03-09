@@ -20,7 +20,7 @@
  <h4 align="center">I am an economist and data scientist who enjoys engineering models for business solutions.</h4>
 I have experience with various technologies such as Python, R, Machine Learning, Excel, VBA, Git, HTML, Big Data, Tableau, and database experience with PostgreSQL, MySQL, SQLite, and Mongo.
 
-I strive to utilize the newest technologies to increase efficiency and profitability and data comprehension. 
+I strive to utilize the newest technologies to increase efficiency, profitability, and data comprehension. 
 
 ### Developing With
 <!-- 
