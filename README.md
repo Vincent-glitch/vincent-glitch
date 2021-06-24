@@ -36,11 +36,6 @@ I strive to utilize the newest technologies to increase efficiency, profitabilit
 
 Vincent Chase - (912) 495-8379 - vincent.d.business@gmail.com
 
-[![Zoom][zoom-shield]][zoom-url] 
-* Schedule a meeting with me today!
-* Leave a detailed message and I will confirm. 
-
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
