@@ -28,11 +28,9 @@ I strive to utilize the newest technologies to increase efficiency, profitabilit
 
 
 
-  | [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats) 
-  (https://github.com/vincent-glitch/github-readme-stats)
-  | ---------------------------------------- | ---------------------------------------- |
 
-        
+  | [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-glitch&show_icons=true&theme=synthwave)](https://github.com/vincent-glitch/github-readme-stats)         |  
+  | ---------------------------------------- | ---------------------------------------- | 
 
 <!-- CONTACT -->
 ## Contact
