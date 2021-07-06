@@ -1,5 +1,11 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]   [![Projects][Project-icon]][Projects-url]  [![Data-Entry][Entry-icon]][Data-Entry-url]  [![Resume][Resume-icon]][Resume-url]  
+[![LinkedIn][linkedin-shield]][linkedin-url] Connect to my LinkedIn. 
+
+[![Projects][Project-icon]][Projects-url] View some of my projects.
+
+[![Data-Entry][Entry-icon]][Data-Entry-url]  View an example of my work doing Data Entry. 
+
+[![Resume][Resume-icon]][Resume-url]  Check out my C.V.
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
 [Data-Entry-url]: https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vQihXoghh_ymJhVg7qLqO2aEa3V29D6VAsHH5vnWXBRezIQOmeinmsl7Mi9iSKhnA/pubhtml?widget=true&headers=false#gid=513006244
