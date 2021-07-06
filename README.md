@@ -54,7 +54,7 @@ Vincent Chase - (912) 495-8379 - vincent.d.business@gmail.com
 
 <!-- Footer -->
 <footer id="footer">
-<p class="copyright">Copyright &copy; 2020 Empire Image LLC
+<p class="copyright">Copyright &copy;
 <br>Designed by <a rel="nofollow" href="https://www.linkedin.com/in/vincent-chase-d/">Vincent Chase</a></p>
 </footer>
 
