@@ -1,7 +1,8 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]   [Projects](#Projects)[Projects-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]   [Projects][Projects-url]    [Data-Entry][Data-Entry-url]
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
+[Data-Entry-url]: https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vQihXoghh_ymJhVg7qLqO2aEa3V29D6VAsHH5vnWXBRezIQOmeinmsl7Mi9iSKhnA/pubhtml?widget=true&headers=false#gid=513006244
 [Projects-url]: https://github.com/Vincent-glitch?tab=repositories
 [linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
 [linkedin-shield]: icons/linkedin.png
