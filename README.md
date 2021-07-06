@@ -1,9 +1,10 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]   [Projects][Projects-url]    [Data-Entry][Data-Entry-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]   [![Projects][Project-icon]][Projects-url]  [![Data-Entry][Entry-icon]][Data-Entry-url]  [![Resume][Resume-icon]][Resume-url]  
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
 [Data-Entry-url]: https://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vQihXoghh_ymJhVg7qLqO2aEa3V29D6VAsHH5vnWXBRezIQOmeinmsl7Mi9iSKhnA/pubhtml?widget=true&headers=false#gid=513006244
 [Projects-url]: https://github.com/Vincent-glitch?tab=repositories
+[Resume-url]: https://www.resumenerd.com/sites/vincent_chase_resume
 [linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
 [linkedin-shield]: icons/linkedin.png
 [twitter-url]: https://twitter.com/
@@ -12,6 +13,9 @@
 [facebook-shield]: icons/facebook.png
 [zoom-url]: https://calendly.com/
 [zoom-shield]:  icons/zoom.png
+[Resume-icon]: icons/abstract.png
+[Project-icon]: icons/developer.png
+[Entry-icon]: icons/data.png
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: images/screenshot.png
