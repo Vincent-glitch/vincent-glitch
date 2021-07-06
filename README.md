@@ -1,7 +1,8 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url]   [Contact](#contact)
+[![LinkedIn][linkedin-shield]][linkedin-url]   [Projects](#Projects)[Projects-url]
 <!-- MARKDOWN SOCIAL LINKS & ICONS -->
 
+[Projects-url]: https://github.com/Vincent-glitch?tab=repositories
 [linkedin-url]: https://www.linkedin.com/in/vincent-chase-d/
 [linkedin-shield]: icons/linkedin.png
 [twitter-url]: https://twitter.com/
